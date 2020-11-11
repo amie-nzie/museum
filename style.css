@@ -1,0 +1,5 @@
+.box{
+    display:table;
+    vertical-align: baseline;
+    color: red;
+}
