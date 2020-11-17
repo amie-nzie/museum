@@ -3,3 +3,28 @@
     vertical-align: baseline;
     color: red;
 }
+
+/* Media queries */
+@media (max-width: 992px){
+
+}
+@media (max-width: 768px){
+
+}
+@media (max-width: 567px){
+
+}
+
+/* Extra small has no media because it is default in bootstrap
+
+sm: (devices with 576px and up)
+    min-width: 576px{...}
+
+md: (devices with 768px and up)
+    min-width: 768px{...}
+    
+lg: (devices with 992px and up)
+    min-width: 992px{...}
+    
+xl: (devices with 1200px and up)
+    min-width: 1200px{...}*/
